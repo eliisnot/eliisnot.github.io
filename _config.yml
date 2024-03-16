@@ -1,0 +1,16 @@
+title: The abd Institute
+description: A starter template for a Jeykll site using the Just the Docs theme!
+theme: just-the-docs
+
+url: https://eliisnot.github.io
+
+aux_links:
+
+
+plugins:
+  - jekyll-default-layout
+
+color_scheme: dark
+
+exclude:
+  - README.md
